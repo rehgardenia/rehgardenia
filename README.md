@@ -1,4 +1,4 @@
-### Olá , sou a Renata 🍄
+### Oii, eu sou a Renata🍄
 
 
 <div align="center">
