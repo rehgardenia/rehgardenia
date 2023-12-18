@@ -1,4 +1,4 @@
-### Seja Bem-VIndo, a minha blioteca de códigos :)
+### Seja Bem-VIndo, a minha biblioteca de códigos :)
 
 
 <div align="center">
