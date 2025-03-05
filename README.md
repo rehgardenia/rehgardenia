@@ -32,6 +32,8 @@ Sou uma jovem fascinada pelo universo da tecnologia, que gosta de aprender coisa
 
 </br>
 
+#
+
 ### About me
 
 <img align="right" width="150px"  src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif"/>
@@ -44,9 +46,6 @@ Sou uma jovem fascinada pelo universo da tecnologia, que gosta de aprender coisa
 
 🐈‍⬛ Gosto de felinos, café, flores e do céu estrelado -- van gogh fan:)
 
-### Contact
-
-  <a href="https://www.linkedin.com/in/renatagardenia/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 
  #
  
@@ -55,5 +54,11 @@ Sou uma jovem fascinada pelo universo da tecnologia, que gosta de aprender coisa
 <img height="180em" width="500"  src="https://github-readme-stats.vercel.app/api?username=rehgardenia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em"width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehgardenia&layout=compact&langs_count=7&theme=dark"/>
 </div>
-   
+
+#
+
+   ### Contact
+
+  <a href="https://www.linkedin.com/in/renatagardenia/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+
 </div>
