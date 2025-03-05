@@ -1,15 +1,15 @@
-#  ⋆｡‧˚ʚ  Renata Gardenia ɞ˚‧｡⋆  
+<h1 align="center"> ⋆｡‧˚ʚ  Renata Gardenia ɞ˚‧｡⋆  </h1> 
  
-<img  align="right" width="300px"  src="https://i.pinimg.com/originals/fc/8e/68/fc8e686c04e5640d6a2ea9970bef094d.gif"/>
 
-### Hii, Devs! Sejam bem-vindos!! ‧₊ 🍒 ⋅ ˚✮ 
 
+<img align="right" width="300px" src="https://i.pinimg.com/originals/fc/8e/68/fc8e686c04e5640d6a2ea9970bef094d.gif"/>
+
+<h3>Hii, Devs! Sejam bem-vindos!! ‧₊ 🍒 ⋅ ˚✮  </h3>
 Sou uma jovem fascinada pelo universo da tecnologia, que gosta de aprender coisas novas e quebrar a cabeça com códigos. ₊˚⊹ ᰔ
 </br>
 </br>
+
 #
-
-
 
 ### Tecnologias e Ferramentas
 
@@ -33,7 +33,8 @@ Sou uma jovem fascinada pelo universo da tecnologia, que gosta de aprender coisa
 </br>
 
 ### About me
- <img align="right"  width="300px"  src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif"/>
+
+<img align="right" width="150px"  src="https://i.pinimg.com/originals/4d/3f/d5/4d3fd5c79837384de61fd2ca64da03a7.gif"/>
 
 👩‍💻 Estou cursando Análise e Desenvolvimento de Sistema no IFSP. 
 
@@ -46,6 +47,8 @@ Sou uma jovem fascinada pelo universo da tecnologia, que gosta de aprender coisa
 ### Contact
 
   <a href="https://www.linkedin.com/in/renatagardenia/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+
+ #
  
-                                                          
+
 </div>
