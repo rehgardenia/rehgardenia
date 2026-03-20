@@ -44,8 +44,6 @@ Sou uma jovem fascinada pelo universo da tecnologia, que gosta de aprender coisa
 
 💻 Sou mais back-end do que front-end, mas quero ser boa nos dois.
 
-🐈‍⬛ Gosto de felinos, café, flores e do céu estrelado -- van gogh fan:)
-
 
 
 #
